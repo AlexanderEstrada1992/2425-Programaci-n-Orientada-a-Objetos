@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a952870c-26a0-4df8-bd7f-5a124665dc59" name="Changes" comment="Tarea semana 8 : Organización de un proyecto orientado a objetos">
+      <change afterPath="$PROJECT_DIR$/UNIDAD 3/Manipulación de archivos, manejo de excepciones y Manejo de Colecciones/Estructura de Datos.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexanderEstrada1992&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AlexanderEstrada1992/2425-Programaci-n-Orientada-a-Objetos.git&quot;,
+    &quot;accountId&quot;: &quot;190d05d3-971e-4b9e-88be-7ebc06c080eb&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2px4m0vTq9WZ3kkvMystZHWNqIK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.2 Tecnicas de Programacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dashboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo con constructores y destructores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo de Clases, objetos, herencia, encapsulamiento y polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EjemplosMundoReal_POO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Estructura de Datos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programación Orientada a Objetos (POO).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programación Tradicional.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tipos de datos, Identificadores.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ALEXANDER/PycharmProjects/2425-Programaci-n-Orientada-a-Objetos/UNIDAD 2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ALEXANDER\PycharmProjects\2425-Programaci-n-Orientada-a-Objetos\UNIDAD 2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a952870c-26a0-4df8-bd7f-5a124665dc59" name="Changes" comment="" />
+      <created>1733694548236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733694548236</updated>
+      <workItem from="1733694549527" duration="1289000" />
+      <workItem from="1733710507591" duration="2925000" />
+      <workItem from="1734316177620" duration="985000" />
+      <workItem from="1736360721822" duration="2367000" />
+      <workItem from="1737220817840" duration="2930000" />
+      <workItem from="1737393234269" duration="307000" />
+      <workItem from="1738376004384" duration="126000" />
+      <workItem from="1738376208038" duration="143000" />
+      <workItem from="1738378260582" duration="3852000" />
+      <workItem from="1738861356352" duration="655000" />
+      <workItem from="1739671555178" duration="3057000" />
+      <workItem from="1739713548495" duration="872000" />
+    </task>
+    <task id="LOCAL-00001" summary="Tarea semana 2: 04 Tecnicas de Programación">
+      <option name="closed" value="true" />
+      <created>1733711660139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733711660139</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tarea semana 2: 04 Tecnicas de Programación">
+      <option name="closed" value="true" />
+      <created>1733711694665</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733711694665</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tarea semana 3 : Comparación entre programación tradicional y POO">
+      <option name="closed" value="true" />
+      <created>1734317059211</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734317059211</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tarea semana 4 : Ejemplo Mundo Real - Sistema de Reserva de Hotel">
+      <option name="closed" value="true" />
+      <created>1736361734858</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736361734858</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tarea semana 4 : Ejemplo Mundo Real - Sistema de Reserva de Hotel">
+      <option name="closed" value="true" />
+      <created>1736361869603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736361869603</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tarea semana 4 : Ejemplo Mundo Real - Sistema de Reserva de Hotel">
+      <option name="closed" value="true" />
+      <created>1736361905670</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736361905670</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tarea semana 5 : Programa para calcular el área y el perímetro de un rectángulo">
+      <option name="closed" value="true" />
+      <created>1736362509769</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736362509769</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tarea semana 6 : Ejemplo de clases, objeto, herencia, encapsulamiento y polimorfismo">
+      <option name="closed" value="true" />
+      <created>1737221571302</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737221571302</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tarea semana 7 : Ejemplo de la utilización de constructures y destructores en POO">
+      <option name="closed" value="true" />
+      <created>1737393416669</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737393416669</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Tarea semana 8 : Organización de un proyecto orientado a objetos">
+      <option name="closed" value="true" />
+      <created>1738382384972</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738382384972</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tarea semana 2: 04 Tecnicas de Programación" />
+    <MESSAGE value="Tarea semana 3 : Comparación entre programación tradicional y POO" />
+    <MESSAGE value="Tarea semana 4 : Ejemplo Mundo Real - Sistema de Reserva de Hotel" />
+    <MESSAGE value="Tarea semana 5 : Programa para calcular el área y el perímetro de un rectángulo" />
+    <MESSAGE value="Tarea semana 6 : Ejemplo de clases, objeto, herencia, encapsulamiento y polimorfismo" />
+    <MESSAGE value="Tarea semana 7 : Ejemplo de la utilización de constructures y destructores en POO" />
+    <MESSAGE value="Tarea semana 8 : Organización de un proyecto orientado a objetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea semana 8 : Organización de un proyecto orientado a objetos" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$EjemplosMundoReal_POO.coverage" NAME="EjemplosMundoReal_POO Coverage Results" MODIFIED="1736361605231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1/EjemplosMundoReal_POO" />
+    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Ejemplo_con_constructores_y_destructores.coverage" NAME="Ejemplo con constructores y destructores Coverage Results" MODIFIED="1737393337533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 2/Constructores y destructores" />
+    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Estructura_de_Datos.coverage" NAME="Estructura de Datos Coverage Results" MODIFIED="1739713769297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Manipulación de archivos, manejo de excepciones y Manejo de Colecciones" />
+    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Dashboard.coverage" NAME="Dashboard Coverage Results" MODIFIED="1738381865240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Tipos_de_datos__Identificadores.coverage" NAME="Tipos de datos, Identificadores Coverage Results" MODIFIED="1736362420603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1/Tipos de datos, Identificadores" />
+    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Programación_Orientada_a_Objetos__POO_.coverage" NAME="Programación Orientada a Objetos (POO) Coverage Results" MODIFIED="1734316932594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1/Comparación de Programación Tradicional y POO en Python" />
+    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Ejemplo_de_Clases__objetos__herencia__encapsulamiento_y_polimorfismo.coverage" NAME="Ejemplo de Clases, objetos, herencia, encapsulamiento y polimorfismo Coverage Results" MODIFIED="1737221377160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 2/Aplicación de Conceptos de POO en Python" />
+    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$1_2_Tecnicas_de_Programacion.coverage" NAME="1.2 Tecnicas de Programacion Coverage Results" MODIFIED="1733711469095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1" />
+    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Programación_Tradicional.coverage" NAME="Programación Tradicional Coverage Results" MODIFIED="1734316718247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1/Comparación de Programación Tradicional y POO en Python" />
+  </component>
+</project>
