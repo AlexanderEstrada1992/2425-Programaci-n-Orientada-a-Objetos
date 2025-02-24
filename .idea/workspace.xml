@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a952870c-26a0-4df8-bd7f-5a124665dc59" name="Changes" comment="Tarea semana 8 : Organización de un proyecto orientado a objetos">
-      <change afterPath="$PROJECT_DIR$/UNIDAD 3/Manipulación de archivos, manejo de excepciones y Manejo de Colecciones/Estructura de Datos.py" afterDir="false" />
+    <list default="true" id="a952870c-26a0-4df8-bd7f-5a124665dc59" name="Changes" comment="Tarea semana 9 : Sistema de Gestión de Inventarios">
+      <change afterPath="$PROJECT_DIR$/UNIDAD 3/Manipulación de archivos y manejo de excepciones/Inventario mejorado.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +70,36 @@
       <recent name="C:\Users\ALEXANDER\PycharmProjects\2425-Programaci-n-Orientada-a-Objetos\UNIDAD 2" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Estructura de Datos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2425-Programaci-n-Orientada-a-Objetos" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UNIDAD 3/Manipulación de archivos, manejo de excepciones y Manejo de Colecciones" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UNIDAD 3/Manipulación de archivos, manejo de excepciones y Manejo de Colecciones/Estructura de Datos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Estructura de Datos" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,7 +127,8 @@
       <workItem from="1738378260582" duration="3852000" />
       <workItem from="1738861356352" duration="655000" />
       <workItem from="1739671555178" duration="3057000" />
-      <workItem from="1739713548495" duration="872000" />
+      <workItem from="1739713548495" duration="1652000" />
+      <workItem from="1740356085504" duration="1523000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea semana 2: 04 Tecnicas de Programación">
       <option name="closed" value="true" />
@@ -178,7 +210,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738382384972</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Tarea semana 9 : Sistema de Gestión de Inventarios">
+      <option name="closed" value="true" />
+      <created>1739714696481</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739714696481</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Tarea semana 9 : Sistema de Gestión de Inventarios">
+      <option name="closed" value="true" />
+      <created>1739714714431</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739714714431</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Tarea semana 9 : Sistema de Gestión de Inventarios">
+      <option name="closed" value="true" />
+      <created>1739714745789</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739714745789</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,12 +248,13 @@
     <MESSAGE value="Tarea semana 6 : Ejemplo de clases, objeto, herencia, encapsulamiento y polimorfismo" />
     <MESSAGE value="Tarea semana 7 : Ejemplo de la utilización de constructures y destructores en POO" />
     <MESSAGE value="Tarea semana 8 : Organización de un proyecto orientado a objetos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea semana 8 : Organización de un proyecto orientado a objetos" />
+    <MESSAGE value="Tarea semana 9 : Sistema de Gestión de Inventarios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea semana 9 : Sistema de Gestión de Inventarios" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$EjemplosMundoReal_POO.coverage" NAME="EjemplosMundoReal_POO Coverage Results" MODIFIED="1736361605231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1/EjemplosMundoReal_POO" />
     <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Ejemplo_con_constructores_y_destructores.coverage" NAME="Ejemplo con constructores y destructores Coverage Results" MODIFIED="1737393337533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 2/Constructores y destructores" />
-    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Estructura_de_Datos.coverage" NAME="Estructura de Datos Coverage Results" MODIFIED="1739713769297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Manipulación de archivos, manejo de excepciones y Manejo de Colecciones" />
+    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Estructura_de_Datos.coverage" NAME="Estructura de Datos Coverage Results" MODIFIED="1740357543911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Manipulación de archivos, manejo de excepciones y Manejo de Colecciones" />
     <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Dashboard.coverage" NAME="Dashboard Coverage Results" MODIFIED="1738381865240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Tipos_de_datos__Identificadores.coverage" NAME="Tipos de datos, Identificadores Coverage Results" MODIFIED="1736362420603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1/Tipos de datos, Identificadores" />
     <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Programación_Orientada_a_Objetos__POO_.coverage" NAME="Programación Orientada a Objetos (POO) Coverage Results" MODIFIED="1734316932594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1/Comparación de Programación Tradicional y POO en Python" />
