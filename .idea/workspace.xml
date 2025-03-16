@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a952870c-26a0-4df8-bd7f-5a124665dc59" name="Changes" comment="Tarea semana 11 : Sistema avanzado de gestión de inventarios para una tienda">
-      <change afterPath="$PROJECT_DIR$/UNIDAD 3/Utilización de colecciones para la mejora de rendimiento/Sistema de Gestión de Biblioteca Digital.py" afterDir="false" />
+    <list default="true" id="a952870c-26a0-4df8-bd7f-5a124665dc59" name="Changes" comment="Tarea semana 12 : Sistema de Gestión de Biblioteca Digital">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +129,8 @@
       <workItem from="1739713548495" duration="1652000" />
       <workItem from="1740356085504" duration="2913000" />
       <workItem from="1740793127772" duration="1094000" />
-      <workItem from="1741098587108" duration="306000" />
+      <workItem from="1741098587108" duration="815000" />
+      <workItem from="1741403538650" duration="59000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea semana 2: 04 Tecnicas de Programación">
       <option name="closed" value="true" />
@@ -268,7 +268,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740793656795</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Tarea semana 12 : Sistema de Gestión de Biblioteca Digital">
+      <option name="closed" value="true" />
+      <created>1741098970801</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1741098970801</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Tarea semana 12 : Sistema de Gestión de Biblioteca Digital">
+      <option name="closed" value="true" />
+      <created>1741098982331</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1741098982331</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,12 +301,13 @@
     <MESSAGE value="Tarea semana 9 : Sistema de Gestión de Inventarios" />
     <MESSAGE value="Tarea semana 10 : Manipulación de archivos y manejo de excepciones" />
     <MESSAGE value="Tarea semana 11 : Sistema avanzado de gestión de inventarios para una tienda" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea semana 11 : Sistema avanzado de gestión de inventarios para una tienda" />
+    <MESSAGE value="Tarea semana 12 : Sistema de Gestión de Biblioteca Digital" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea semana 12 : Sistema de Gestión de Biblioteca Digital" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$EjemplosMundoReal_POO.coverage" NAME="EjemplosMundoReal_POO Coverage Results" MODIFIED="1736361605231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1/EjemplosMundoReal_POO" />
     <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Ejemplo_con_constructores_y_destructores.coverage" NAME="Ejemplo con constructores y destructores Coverage Results" MODIFIED="1737393337533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 2/Constructores y destructores" />
-    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Estructura_de_Datos.coverage" NAME="Estructura de Datos Coverage Results" MODIFIED="1740793571040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Manipulación de archivos, manejo de excepciones y Manejo de Colecciones" />
+    <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Estructura_de_Datos.coverage" NAME="Estructura de Datos Coverage Results" MODIFIED="1741098837927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Manipulación de archivos, manejo de excepciones y Manejo de Colecciones" />
     <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Dashboard.coverage" NAME="Dashboard Coverage Results" MODIFIED="1738381865240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Tipos_de_datos__Identificadores.coverage" NAME="Tipos de datos, Identificadores Coverage Results" MODIFIED="1736362420603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1/Tipos de datos, Identificadores" />
     <SUITE FILE_PATH="coverage/2425_Programaci_n_Orientada_a_Objetos$Programación_Orientada_a_Objetos__POO_.coverage" NAME="Programación Orientada a Objetos (POO) Coverage Results" MODIFIED="1734316932594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1/Comparación de Programación Tradicional y POO en Python" />
